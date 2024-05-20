@@ -2,7 +2,7 @@
 
 ## 📚 Descrição
 
-Este exercício é um programa simples que simula uma interface de caixa eletrônico, permitindo operações de depósito, saque e extrato.
+Este exercício é um programa simples que simula uma interface de caixa eletrônico, permitindo operações de depósito, saque, extrato, criação de conta/usuário e listagem de contas.
 
 ## ⚙ Instalação
 
@@ -20,3 +20,4 @@ Não há requisitos específicos de instalação para este exercício, basta clo
 ## 🔐 Licença
 
 Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT) - consulte o arquivo LICENSE para obter detalhes.
+
